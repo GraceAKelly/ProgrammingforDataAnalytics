@@ -1,7 +1,10 @@
 # ProgrammingforDataAnalytics
-This repositort contains 
+The pupose of this repository is to investigate the numpy.random functionality within NumPy package.
 
-Assignment looking at the numpy.random package in Python
+The repository contains the following files:
+-Numpy-random.ipynb the numpy.random package in Python
+
+
 This repository will look the functionality of  of generating random sampling and distributions within the NumPy package.
 “Simple random data” and “Permutations” functions
 “Distributions”
