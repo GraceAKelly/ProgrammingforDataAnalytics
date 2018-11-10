@@ -10,11 +10,28 @@ The pupose of this repository is to investigate the numpy.random functionality w
 
 
 This repository will look the functionality of  of generating random sampling and distributions within the NumPy package.
-“Simple random data” and “Permutations” functions
-“Distributions”
-use of seeds in generating pseudorandom numbers
 
-The README need only contain an explanation
-of what is contained in the repository and how to run the Jupyter notebook.
+There are 4 sections within the jupyter notebook that run sequentially:
 
-The 
+1. Simple random data
+An overview of random data generation and sorting within the NumPy package
+
+2. Permutations
+The permutation of random data generation and the abilty to rearrange the order is looked at with example of the following functions:
+- Permutation
+- Shuffle
+
+3. Distributions
+Five distributions are analysed for their applications with Python examples of each distribution type.
+Each distribution type concludes with a reference to an application and use of the distribution type. It may then be determined by the end user which distribution is applicable to the outcome they are attempting to acheive in a real life senario.
+
+Distributions included:
+- Exponential Distribution
+- Binomial Distribution
+- Possion Distribution
+- Normal Distribution
+- Gamma Distribution
+
+4. The use of seeds in generating pseudorandom numbers
+
+
